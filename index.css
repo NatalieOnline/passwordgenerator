@@ -1,0 +1,55 @@
+body {
+    margin: 40;
+    text-align: center;
+    background: #D1FAE5;
+}
+#generate-el {
+    color: black;
+    font-family: Karla;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 40px; /* 100% */
+    letter-spacing: -2px;
+    }
+    #line {
+    width: 446px;
+    height: 1px;
+    background: #10B981;
+    }
+#random-el {
+    color: #10B981;
+    font-family: Karla;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: -2px;
+    }
+#generate {
+    background: #10B981;
+    text-align: center;
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+}
+#passwordone {
+    text-align: center;
+    width: 211px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #273549;
+    margin-top: 20px;
+    color: white;
+}
+#passwordtwo {
+   text-align: center;
+    width: 211px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #273549;
+    margin-top: 20px;
+    color: white;
+}
